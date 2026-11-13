@@ -1,0 +1,8 @@
+seed: 7
+sample_rate: 22050
+window_seconds: 5.0
+species_list: [nightjar, woodpecker, owl, frog]
+alpha: 0.1
+batch_size: 64
+learning_rate: 0.001
+epochs: 40
